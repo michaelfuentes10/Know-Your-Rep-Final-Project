@@ -15,7 +15,7 @@ Therefore, I present the ultimate unbiased political information granter: "Know 
 
 In a political landscape filled with fearmongering politicians, booming news articles on the cons and cons (not too many pros are discussed) often in political debates, it can be very difficult to feel properly represented, let alone know who actually represents you. As we know senators represent us at a state level, but what about house reps? House representatives are some of the most local leaders in the United States who can have a semblance of great political impact on issues that truly matter to us. And so, with a somewhat lack of publicized resources to help people learn who their house representative is and what they believe in, this is where the agent value of "Know Your Rep" comes in. 
 
-In the past, I believe AI has been unable to replicate real-world phenomenon and political discussions simply because present news sources had moved faster than AI can be informed. But nowadays, with APIs of data that can be funneled to LLMs, we can create a censored and unbiased LLM assistant ready to help many understand who represents them and if their personal beliefs aligns with their house representative.
+In the past, I believe AI has been unable to replicate real-world phenomenon and political discussions simply because present news sources had moved faster than AI can be informed. But nowadays, with broader databases fromt the internet that can be funneled to LLMs, we can create a censored and unbiased LLM assistant ready to help many understand who represents them and if their personal beliefs aligns with their house representative.
 
 ### **Motivations behind "Know Your Rep"**
 
